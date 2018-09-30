@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Nick Perry",
+            "title": "Passengers, crew survive after Air Niugini plane crashes into sea in Micronesia",
+            "description": "All 47 passengers and crew survived a plane’s crash landing in a Pacific lagoon Friday morning, wading through waist-deep water to the emergency exits and escaping on local boats that came to the rescue in the Micronesia archipelago.",
+            "url": "https://www.usatoday.com/story/news/world/2018/09/28/air-niugini-plane-crash-micronesia/1453064002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2018/09/28/USAT/557e2f62-01fc-471e-9113-a6e8777b0ca8-AP_Micronesia_Plane_Crash.jpg?crop=3288,1850,x407,y200&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2018-09-28T09:34:00Z",
+            "content": "Local fishing boats move in to recover the passengers and crew of Air Niugini flight following the plane crashing into the sea on its approach to Chuuk International Airport in the Federated States of Micronesia. (Photo: AP, James Yaingeluo) WELLINGTON, New Z… [+4952 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Theresa May's Former Top Diplomat Is Now Her Antagonist on Brexit",
+            "description": null,
+            "url": "https://www.wsj.com/articles/theresa-mays-former-top-diplomat-is-now-her-antagonist-on-brexit-1538127000",
+            "urlToImage": null,
+            "publishedAt": "2018-09-28T09:31:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newyorker.com"
+            },
+            "author": null,
+            "title": "Lady Gaga Tips the Scales in Bradley Cooper's “A Star Is Born”",
+            "description": null,
+            "url": "https://www.newyorker.com/magazine/2018/10/08/lady-gaga-tips-the-scales-in-bradley-coopers-a-star-is-born",
+            "urlToImage": null,
+            "publishedAt": "2018-09-28T09:03:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Sabarimala Temple: India's Supreme Court lifts ban on women entering shrine",
+            "description": null,
+            "url": "https://www.cnn.com/2018/09/28/asia/india-temple-women-banned-intl/index.html",
+            "urlToImage": null,
+            "publishedAt": "2018-09-28T08:43:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Silvia Amaro",
+            "title": "Anti-establishment parties triumph in Italian battle over budget deficit",
+            "description": "The leftist Five Star Movement and the right-wing Lega agreed Thursday night on a 2.4 percent deficit target for 2019.",
+            "url": "https://www.cnbc.com/2018/09/28/italy-anti-establishment-parties-triumph-over-budget-deficit.html",
+            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/09/28/105476496-1538118357444gettyimages-1042093574.1910x1000.jpeg",
+            "publishedAt": "2018-09-28T07:08:21Z",
+            "content": "The 2019 deficit figure could also raise problems with the European Union. Though the 2.4 percent target is still below the EU's threshold of 3 percent, it challenges previous demands from Brussels to lower its public debt pile. There are also some concerns o… [+1749 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Euan McKirdy, CNN",
+            "title": "Japan's Hayabusa asteroid rovers send back first footage",
+            "description": "Japan's intrepid, hopping asteroid rovers have sent back footage and high-resolution imagery of the surface of the celestial body they have been exploring, according to tweets from Japan's space agency.",
+            "url": "https://www.cnn.com/2018/09/28/asia/japan-hayabusa-rovers-first-video-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180921112533-hayabusa-rover-1a-rover--b-super-tease.jpg",
+            "publishedAt": "2018-09-28T07:03:00Z",
+            "content": "(CNN) Japan's intrepid, hopping asteroid rovers have sent back footage and high-resolution imagery of the surface of the celestial body they have been exploring, according to tweets from Japan's space agency. In a series of six tweets, the Japan Aerospace Exp… [+2567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cincinnati.com"
+            },
+            "author": null,
+            "title": "Watch: Rams' Andrew Whitworth blocks one Vikings defender into another",
+            "description": null,
+            "url": "https://www.cincinnati.com/story/sports/nfl/2018/09/28/andrew-whitworth-rams-lineman-blocks-vikings-defender-into-another/1452928002/",
+            "urlToImage": null,
+            "publishedAt": "2018-09-28T06:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ibtimes.com"
+            },
+            "author": "https://www.facebook.com/prithz.paul",
+            "title": "Kavanaugh Confirmation Vote: American Bar Association, Republican Governors, Alan Dershowitz Want Delay",
+            "description": "President of American Bar Association (ABA) Robert Carlson wrote a letter to the Senate calling for the confirmation vote to be postponed to allow for the allegations against Brett Kavanaugh to be properly investigated.",
+            "url": "https://www.ibtimes.com/kavanaugh-confirmation-vote-american-bar-association-republican-governors-alan-2720813",
+            "urlToImage": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/09/28/brett-kavanaugh.jpg",
+            "publishedAt": "2018-09-28T06:42:08Z",
+            "content": "The Senate Judiciary Committee is scheduled to vote on the confirmation of Brett Kavanaugh for the Supreme Court on Friday 9:30 a.m. EDT, which would be less than 24 hours following testimonies from the nominee as well as Dr. Christine Blasey Ford — the latte… [+4594 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Screenrant.com"
+            },
+            "author": "Kevin Yeoman",
+            "title": "Murphy Brown Premiere Review: This Revival Isn't Afraid To Show Its Politics",
+            "description": "The Murphy Brown revival wears its politics on its sleeve as the series gets underway with a preachy and shaky premiere.",
+            "url": "https://screenrant.com/murphy-brown-premiere-review-cbs-revival/",
+            "urlToImage": "https://static2.srcdn.com/wordpress/wp-content/uploads/2018/09/Joe-Regalbuto-Candice-Bergen-and-Faith-Ford-in-Murphy-Brown.jpg",
+            "publishedAt": "2018-09-28T02:06:42Z",
+            "content": "As the recent wave of reboots and revivals go, the return of Murphy Brown to television feels propelled by a more distinct purpose than some of its fellow back-from-the-dead series, like Roseanne (now The Conners ), Magnum P.I., or even NBC’s revived Will &am… [+5427 chars]"
+        },
+        {
+            "source": {
+                "id": "the-guardian-au",
+                "name": "The Guardian (AU)"
+            },
+            "author": "",
+            "title": "Canadian MPs vote to strip Aung San Suu Kyi of honorary citizenship",
+            "description": "The symbolic vote by Canadian legislators is in response to crimes committed against the Rohingya minority in Myanmar",
+            "url": "https://www.theguardian.com/world/2018/sep/28/canadian-mps-vote-to-strip-aung-san-suu-kyi-of-honorary-citizenship",
+            "urlToImage": "https://i.guim.co.uk/img/media/77489edaca766b8d59f00fa9a6d17bdfd26666c5/15_72_2627_1576/master/2627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=3cb3e177b23c63b0c7e48e337e07a8d8",
+            "publishedAt": "2018-09-28T01:54:03Z",
+            "content": "Canadian politicians have voted unanimously to strip Myanmar’s civilian leader Aung San Suu Kyi of her honorary citizenship in response to crimes committed against the Rohingya minority. The move by the House of Commons lower chamber has no effect because hon… [+1867 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "https://www.facebook.com/julie.zauzmer",
+            "title": "Archbishop Viganò renews his criticism of Pope Francis in a new letter",
+            "description": "The former Vatican ambassador to the United States says Francis's silence on his explosive allegations proves that his first letter was right.",
+            "url": "https://www.washingtonpost.com/religion/2018/09/28/archbishop-vigan-renews-his-criticism-pope-francis-new-letter/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/9vhIKw-889t76lVVMK10qrt_jXA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RMJGLXVV2MI6RLSPFQKDTSLNPE.jpg",
+            "publishedAt": "2018-09-28T01:48:50Z",
+            "content": "The former Vatican ambassador to the United States who sparked a firestorm in the Catholic Church last month by writing a letter accusing Pope Benedict XVI and Pope Francis of knowledge of a sexual harasser has published a second letter, attacking Pope Franci… [+3895 chars]"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": null,
+            "title": "Tesla Chief Elon Musk Is Sued by SEC in Move That Could Oust Him",
+            "description": "The Securities and Exchange Commission filed a lawsuit Thursday that accused Mr. Musk, the electric-car manufacturer’s chief executive, of making false and misleading public statements.",
+            "url": "https://www.nytimes.com/2018/09/27/business/elon-musk-sec-lawsuit-tesla.html",
+            "urlToImage": "https://static01.nyt.com/images/2018/09/27/business/28TESLA-promo/28TESLA-promo-facebookJumbo.jpg",
+            "publishedAt": "2018-09-28T01:19:32Z",
+            "content": "The S.E.C. complaint is quite detailed in describing the events that led to Mr. Musk’s fateful tweet. The filing said that on Aug. 2, five days before he sent the tweet, Mr. Musk sent an email to Tesla’s board, chief financial officer and general counsel with… [+1622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gamespot.com"
+            },
+            "author": "Tamoor Hussain",
+            "title": "Fortnite Patch Notes (Update 6.0): Pets, New Map Areas, Vaulted Weapons, Shadow Stones",
+            "description": "Epic Games is rolling out Season 6 on PS4, Xbox One, PC, Switch, and mobile; here's everything included in the new Fortnite patch.",
+            "url": "https://www.gamespot.com/articles/fortnite-patch-notes-update-60-pets-new-map-areas-/1100-6462090/",
+            "urlToImage": "https://static.gamespot.com/uploads/screen_kubrick/43/434805/3444071-0269908600-Fortn.jpg",
+            "publishedAt": "2018-09-27T21:03:38Z",
+            "content": "Fortnite : Battle Royale Season 6 has finally been released and, alongside it, developer Epic Games rolled out patch 6.00 for the game. The arrival of a new season means there's new Battle Pass content to unlock, as well as some changes to the game world's ma… [+10734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heraldonline.com"
+            },
+            "author": "Joe Marusak",
+            "title": "'Not the ending we had hoped for' after body believed to be missing boy's is found",
+            "description": "Police and FBI search crews found a body believed to be that of Maddox Ritch, the 6-year-old boy who has been missing for days, Gastonia Police said. He was found in a creek that flows from Rankin Lake Park.",
+            "url": "https://www.heraldonline.com/latest-news/article219109130.html",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/6ba35196-b617-4d46-910d-7f39ba69e409/d44b38d8-8c97-4712-b22b-aa88171ee31b/1280x720/match/image.jpg",
+            "publishedAt": "2018-09-27T20:53:30Z",
+            "content": "Gastonia Police Chief Robert Helton struggled to contain his emotions Thursday as he announced an end to the five-day search for 6-year-old Maddox Ritch. “This is not the ending we had hoped for,” Helton said after a member of a search team found what is beli… [+5041 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espn.com"
+            },
+            "author": null,
+            "title": "Yankees' CC Sabathia ejected two innings shy of $500000 bonus",
+            "description": "New York Yankees starter CC Sabathia, in the middle of a one-hitter and two innings shy of earning a $500,000 incentive-based bonus, was ejected from Thursday afternoon's game at Tropicana Field.",
+            "url": "http://www.espn.com/mlb/story/_/id/24814782/yankees-cc-sabathia-ejected-two-innings-shy-500000-bonus",
+            "urlToImage": "http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0927%2Fr438050_1296x729_16%2D9.jpg",
+            "publishedAt": "2018-09-27T19:49:02Z",
+            "content": "ST. PETERSBURG, Fla. -- New York Yankees starter CC Sabathia, in the middle of a one-hitter and two innings shy of earning a $500,000 incentive-based bonus, was ejected from Thursday afternoon's game at Tropicana Field. Sabathia entered Thursday's game having… [+5533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bbc.com"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Netherlands police arrests foil 'major terrorist attack'",
+            "description": "Prosecutors say seven men were planning a bomb and gun attack on a large event in the country.",
+            "url": "https://www.bbc.com/news/world-europe-45673221",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/122DC/production/_103606447_da770276-c2ec-448e-ba66-d768f5921355.jpg",
+            "publishedAt": "2018-09-27T18:32:26Z",
+            "content": "Police in the Netherlands have arrested seven men over an alleged plot to carry out what they describe as a major terrorist attack involving guns and explosives. Police say the men were trying to source AK47s, hand grenades and bomb materials to carry out the… [+1493 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurekalert.org"
+            },
+            "author": null,
+            "title": "Lidar survey 'compels' revaluation of aspects of ancient Maya society",
+            "description": "An airborne laser mapping survey of over 2,000 square kilometers of northern Guatemala - the largest such survey to date of this region -- 'compels' a revaluation of Maya demography, agriculture, and political economy, according to its authors.",
+            "url": "https://www.eurekalert.org/pub_releases/2018-09/aaft-ls092418.php",
+            "urlToImage": "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg",
+            "publishedAt": "2018-09-27T18:04:33Z",
+            "content": "An airborne laser mapping survey of over 2,000 square kilometers of northern Guatemala - the largest such survey to date of this region - \"compels\" a revaluation of Maya demography, agriculture, and political economy, according to its authors. The lidar surve… [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "US F-35 fighter jet conducts first-ever airstrike",
+            "description": null,
+            "url": "https://www.cnn.com/2018/09/27/politics/airstrike-afghanistan-first-f-35b/index.html",
+            "urlToImage": null,
+            "publishedAt": "2018-09-27T14:58:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sbnation.com"
+            },
+            "author": "Brendan Porath",
+            "title": "How the USA is going to end its 25-year Ryder Cup drought in Europe",
+            "description": "Team Europe is loaded again but the U.S. has not been set up better since 1993 to win an away game. A look back at 25 years of misery and what’s so different this time in Paris.",
+            "url": "https://www.sbnation.com/golf/2018/9/27/17908640/2018-ryder-cup-usa-roster-vs-europe-paris",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/A5Tc8yzMorctfnUOvLlnQcuvZ4I=/0x331:4621x2750/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13167585/usa_today_11321580.jpg",
+            "publishedAt": "2018-09-27T14:35:09Z",
+            "content": "Jim Furyk was beside himself, at a loss to describe what went wrong in a press conference that was spiraling out of control. “We’ve fallen short quite a bit, and it’s — you know, five of you have already asked me tonight what’s the winning formula and what’s … [+19725 chars]"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": null,
+            "title": "Kavanaugh's Yearbook Page Is 'Horrible, Hurtful' to a Woman It Named",
+            "description": "The Supreme Court nominee Brett Kavanaugh and some high school friends described themselves in a yearbook as “Renate” alumni. The woman they were referring to is furious.",
+            "url": "https://www.nytimes.com/2018/09/24/business/brett-kavanaugh-yearbook-renate.html",
+            "urlToImage": "https://static01.nyt.com/images/2018/09/25/business/25YEARBOOK02/25YEARBOOK02-facebookJumbo-v4.jpg",
+            "publishedAt": "2018-09-25T02:54:30Z",
+            "content": "The group photo, with Judge Kavanaugh and eight fellow football players in pads and uniform, grinning, was captioned “Renate Alumni.” Mark Judge, the commentator and author who has written about his alcohol-fueled years at Georgetown Prep, stands next to Judg… [+2349 chars]"
+        }
+    ]
+}

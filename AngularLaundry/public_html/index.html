@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html ng-app="myApp" ng-controller="myController" >
+    <head>
+        <title>Laundry List</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.4/angular.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    </head>
+    <body>
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th colspan="4">
+                        <h1 style="margin:0;text-align: center">
+                            PRESS ONLY                            
+                        </h1>
+                    </th>
+                </tr>
+                <tr>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Item</th>
+                    <th>Total Cost</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="g in garments" >
+                    <td>
+                        <input type="number" min="0" max="10" ng-model="qty" ng-change="updateTotalCost(g.price, qty, $index)">
+                    </td>
+                    <td>
+                        {{g.name}}
+                    </td>
+                    <td>
+                        {{g.price|currency:'£'}}
+                    </td>
+                    <td>
+                        <span >
+                            {{g.price * qty|currency:'£ '}}
+                        </span>
+                    </td>
+                </tr>               
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">
+                        <h2>
+                            Total Cost of Laundry is :: 
+                        </h2>
+                    </td>
+                    <td colspan="2">
+                        <h1>{{totalCost|currency:'£'}}</h1>
+                    </td>
+                </tr>
+            </tfoot>
+
+        </table>
+
+        <script>
+
+                    angular.module("myApp", []).controller("myController", function ($scope) {
+                        var garments = [{name: 'shirt', price: 1.75}, {name: 'jacket', price: 10.75}, {name: 'blouse', price: 1.75}, {name: 'trousers', price: 2.75}];
+                        var prices = [];                       
+                        prices.length = garments.length;
+                        $scope.prices = prices;
+                        
+                        $scope.garments = garments;
+                        $scope.updateTotalCost = function (price, quantity, index) {
+                            if (price !== undefined && quantity !== undefined) {
+                                var k = price * quantity;
+                                prices.splice(index, 1, k);
+                                $scope.totalCost = 0;
+                                $scope.prices.forEach(function (item) {
+                                    $scope.totalCost += parseFloat(item);
+                                });
+                            }
+                            console.log(prices);
+                        };
+
+                        $scope.prices = prices;
+                    });
+        </script>
+    </body>
+</html>

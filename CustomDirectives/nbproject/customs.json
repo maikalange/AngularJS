@@ -1,0 +1,11 @@
+{
+    "elements": {
+        "my-customer": {},
+        "weather-component": {}
+    },
+    "attributes": {
+        "integrity": {
+            "context": "link"
+        }
+    }
+}

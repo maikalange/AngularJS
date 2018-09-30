@@ -1,0 +1,17 @@
+[
+    {
+        "name": "John",
+        "profile": "I like tennis and reading books",
+        "dob": "14/4/2000",
+        "gender": "male",
+        "hobby": "Tennis"
+    }
+    ,
+    {
+        "name": "Mary",
+        "profile": "I like football and swimming",
+        "dob": "14/4/1998",
+        "gender": "female",
+        "hobby": "football"
+    }
+]

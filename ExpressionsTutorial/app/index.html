@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Expressions Tutorial</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.4/angular.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <style>
+        body{
+            font-family: 'PT Sans', sans-serif;
+        }
+        #vehicleitemtemplate{
+            border-width: 1px;
+        }
+    </style>
+
+</head>
+<body ng-app="myApp" ng-controller="myController">
+    <select ng-model="selectedCar" ng-options="x.name for x in cars" ng-change="hideTable()">
+    </select>
+    <table class="table" ng-hide="hide">
+        <thead>
+            <tr>
+                <td>Id                
+                </td>
+                <td>   Name             
+                </td>
+                <td>     Description           
+                </td>
+                <td>   Image             
+                </td>
+            </tr>   </thead>
+        <tbody>
+            <tr ng-repeat="x in cars">
+                <td>
+                    {{x.id}}
+                </td>
+                <td>
+                    {{x.name}}
+                </td>
+                <td>
+                    {{x.description}}
+                </td>
+                <td>
+                    <img src="{{x.image}}">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div ng-include="templatePath"></div>
+    <script>
+                angular.module("myApp", []).controller("myController", function ($scope) {
+                    $scope.name = "Fred";
+                    $scope.games = ['tennis', 'football', 'golf'];
+                    $scope.templatePath = "templates/vehicledetails.html";
+                    $scope.hide = false;
+                    $scope.hideTable = function () {
+                        $scope.hide = true;
+                    };
+
+                    var cars = [{id: 1, name: 'Landrover 110', image: 'images/landrover.jpg', description: 'The Land Rover Defender (initially called the Land Rover Ninety and Land Rover One Ten) is a British four-wheel drive off-road vehicle developed in the 1980s from the original Land Rover Series which was launched at the Amsterdam Motor Show in April 1948. After a continuous run of 67 years [1] production finally ended on 29 January 2016 when the last Land Rover Defender, with the number plate H166 HUE, rolled off the production line.[2] A special edition Defender Works V8, with 400bhp, was announced in January 2018.[3] The next-generation model, codenamed L663, will be completely redesigned and come in two wheelbase sizes'},
+                        {id: 2, name: 'Landcruiser Amazon', image: '', description: 'kjlksjldkfjl'}
+                    ];
+                    $scope.cars = cars;
+                });
+    </script>
+</body>
+</html>

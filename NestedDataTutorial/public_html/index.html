@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Movies to watch at Christmas</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.4/angular.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    </head>
+    <body ng-app="myApp" ng-controller="myController">
+        <h1>My Favourite Movies </h1>
+        <ol>
+            <li ng-repeat="movie in movies">
+                {{movie.name}}  /Current Index {{$index}}
+                <ul ng-repeat="actor in movie.actors">
+                    <li>{{actor.name}}/Current Index {{$parent.$index}}--{{$index}}</li> 
+                </ul>
+            </li>
+        </ol>
+        <script>
+                    angular.module("myApp", []).controller("myController", function ($scope, $http,$location) {
+                        $http.get("movies.json").then(function (response) {
+                            $scope.movies = response.data;
+                        });
+                        console.log($location.absUrl());
+                    });
+        </script>
+    </body>
+
+</html>
